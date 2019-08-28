@@ -1,4 +1,4 @@
-# Stock price checker
+# Anonymous message board
 ### About the project
 
 it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that can store and manage threads and replies sent by users.
