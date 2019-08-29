@@ -4,14 +4,14 @@
 it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that can store and manage threads and replies sent by users.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 - Validation using Joi
 
 ### Tools used
 
 **Front-end:** React
 
-**Back-end:** Express, mongoose, Helmet
+**Back-end:** Express, mongoose, Helmet, Joi
 
 **Database:** Mongodb
 
