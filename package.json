@@ -34,7 +34,7 @@
     "mocha": "^6.1.4",
     "helmet": "^3.18.0",
     "mongodb": "^3.2.6",
-    "mongoose": "^5.6.2",
+    "mongoose": "^5.7.5",
     "style-loader": "^0.23.1",
     "css-loader": "^3.1.0",
     "sass-loader": "^7.1.0",
